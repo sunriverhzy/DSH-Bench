@@ -4,16 +4,16 @@
 
 Code and Data for DSH-Bench: A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation
 
-Arxiv: will be public soon
+Arxiv: will be made publicly available soon
 
 # 📊 Data
 ## DSH-Bench Data
 The DSH-Bench dataset we collected can be obtained from the following link: 
-will be public soon
+will be made publicly available soon
 
 ## SICS generated images
 The images that we generated used in SICS experiment can be obtained from the following link:
-will be public soon
+will be made publicly available soon
 
 # SICS model
 The model we trained used SICS method can be obtained from the following link:
