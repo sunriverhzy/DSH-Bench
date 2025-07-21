@@ -1,26 +1,26 @@
-# DSH-Bench
+# DSH-Bench: A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation
 
 <img src="assets/overview_1.png" width="100%">
 
 Code and Data for DSH-Bench: A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation
 
-Arxiv: 
+Arxiv: will be public soon
 
-# Data
+# 📊 Data
 ## DSH-Bench Data
 The DSH-Bench dataset we collected can be obtained from the following link: 
-https://drive.google.com/file/d/1jes5Zh8Y-p2B9Q-6Z3hdpRwQLUeWIWwK/view?usp=sharing
+will be public soon
 
 ## SICS generated images
 The images that we generated used in SICS experiment can be obtained from the following link:
-https://drive.google.com/file/d/1DcosqxQgsgL4nu7EdW61ls7j_z0a52NJ/view?usp=sharing
+will be public soon
 
 # SICS model
 The model we trained used SICS method can be obtained from the following link:
 https://huggingface.co/mapels/DSH-Bench/tree/main
 
-# Code 
-1. We have made publicly available the code for all computational metrics used in our experiments, as listed in the directory below.
+# 🧑‍💻 Code 
+1. We have made publicly available the code for all computational metrics used in our experiments, as listed in the directory below: ./code/metric_calculation/
 2. The SICS method is implemented based on Llama Factory (https://github.com/hiyouga/LLaMA-Factory).
 3. All baseline code we used in our experiment is obtained from official version:
     - Textual Inversion: https://github.com/rinongal/textual_inversion
