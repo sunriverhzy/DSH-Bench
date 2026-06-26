@@ -8,7 +8,7 @@ Arxiv: will be made publicly available soon
 
 # 📊 Data
 ## DSH-Bench Data
-The DSH-Bench dataset we collected can be obtained from the following:  
+The DSH-Bench dataset we collected can be obtained from the following: DSH-bench_data/images 
 
 
 # SICS model
@@ -36,3 +36,11 @@ https://huggingface.co/mapels/DSH-Bench/tree/main
     - OmniGen: https://github.com/VectorSpaceLab/OmniGen
 
 # Citation
+```
+@article{hu2026dsh,
+  title={DSH-Bench: A Difficulty-and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation},
+  author={Hu, Zhenyu and Wang, Qing and Cao, Te and Liao, Luo and Lu, Longfei and Liu, Liqun and Li, Shuang and Chen, Hang and Xue, Mengge and Chen, Yuan and others},
+  journal={arXiv preprint arXiv:2603.08090},
+  year={2026}
+}
+```
