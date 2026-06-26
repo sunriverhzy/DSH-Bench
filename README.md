@@ -4,7 +4,7 @@
 
 Code and Data for DSH-Bench: A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation
 
-Arxiv: will be made publicly available soon
+Arxiv: https://arxiv.org/pdf/2603.08090
 
 # 📊 Data
 ## DSH-Bench Data
